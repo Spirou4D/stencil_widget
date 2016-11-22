@@ -18,7 +18,7 @@ You can with buttons and/or numeric keyboard:
 - offset texture U
 - offset texture V
 - change opacity between 50% to 0.
-- scale precisely with mesurement on your texture.
+- scale precisely with two mesurements on your texture and object.
 
 # Shortcuts:
 
