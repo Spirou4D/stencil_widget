@@ -1,6 +1,9 @@
 # Stencil Widget
 Blender 2.78+ release for Texture stencil and Mask stencil
 
+# Download:
+[ `Last release` HERE] (https://github.com/Spirou4D/stencil_widget/blob/master/download/stencil_widget.zip)
+
 # Addon explanations:
 Shortcuts to run it:
 
@@ -31,5 +34,4 @@ This new mask stencil use is usable for Paint, Vertex-Paint and Sculpt mode.
 
 
 And "Voilà"!
-# Download
-[HERE] (href="https://github.com/Spirou4D/stencil_widget/blob/master/download/stencil_widget.zip")
+
