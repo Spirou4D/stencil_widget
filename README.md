@@ -31,3 +31,5 @@ This new mask stencil use is usable for Paint, Vertex-Paint and Sculpt mode.
 
 
 And "Voilà"!
+# Download
+[link href="https://github.com/Spirou4D/stencil_widget/blob/master/download/stencil_widget.zip"]
