@@ -1,6 +1,8 @@
 # Stencil Widget
 Blender 2.78+ release for Texture stencil and Mask stencil too.
 
+![Screencapture] (http://storage8.static.itmages.com/i/16/1124/h_1479997456_1069641_ff5ecaf018.jpeg)
+
 # Download:
 Last [ `release 1.20`] (https://github.com/Spirou4D/stencil_widget/blob/master/download/stencil_widget.zip)
 
