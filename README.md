@@ -24,8 +24,11 @@ You can with buttons and/or numeric keyboard:
 
 # Shortcuts:
 Select your texture to:
+
 Texture Painting Slot => Ctrl + Shift + Q
+
 or
+
 Mask Texture Painting Slot => Shift + Alt + Q
 
 (Warning to your keyboard Encoding, please!)
