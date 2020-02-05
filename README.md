@@ -23,10 +23,13 @@ You can with buttons and/or numeric keyboard:
 - scale precisely with two mesurements on your texture and object.
 
 # Shortcuts:
+Select your texture to:
+Texture Painting Slot => Ctrl + Shift + Q
+or
+Mask Texture Painting Slot => Shift + Alt + Q
 
-Ctrl + Shift + Q => Stencil Widget
+(Warning to your keyboard Encoding, please!)
 
-Shift + Alt +Q => Mask Stencil Widget
 
 # Uses:
 1 - When the widget is visible, you can move it with the midlle circle (#0) to change the center of rotation, offset and scale
