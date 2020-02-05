@@ -1,10 +1,10 @@
 # Stencil Widget
-Blender 2.78+ release for Texture stencil and Mask stencil too.
+Blender 2.77+ -> 2.79a release for Texture stencil and Mask stencil too.
 
 ![Screencapture] (http://lisiere.free.fr/download/2020-02-05_180154.jpg)
 
 # Download:
-Last [ `Blender 2,78 r=1.20`] (https://github.com/Spirou4D/stencil_widget/blob/master/download/stencil_widget.zip)
+Last Blender 2,77+ [ `v=1.20`] (https://github.com/Spirou4D/stencil_widget/blob/master/download/stencil_widget.zip)
 
 # Addon explanations:
 
