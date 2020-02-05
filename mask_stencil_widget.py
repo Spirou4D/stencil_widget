@@ -389,7 +389,7 @@ def load_icon():
 
     icons = []
     if tmp_path:
-        path = tmp_path + slash + "icon" + slash
+        path = tmp_path + slash + "icons" + slash
         for i in range(1, nb_part+1):
             try:
                 #print(path + str(i) + ".png")
@@ -398,7 +398,7 @@ def load_icon():
             except:
                 print('Erreur Icons')
     else:
-        print("Don't find the icon")
+        print("Don't find the icons")
 
     return icons
 
